@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is line 1 in file4.txt
+=======
+Adding line 1 in file4.txt
+
+>>>>>>> 87e0ed5d218aabd0cfe0ace9cc2a2ab089cc47cb
